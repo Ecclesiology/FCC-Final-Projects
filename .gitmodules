@@ -1,0 +1,3 @@
+[submodule "rqg"]
+	path = rqg
+	url = git@github.com:Ecclesiology/rqg.git
